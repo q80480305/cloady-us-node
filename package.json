@@ -1,0 +1,1 @@
+{"engines":{"node":">=18"},"main":"app.js","name":"cloady-us-node","private":true,"scripts":{"start":"node app.js"},"version":"1.0.0"}
